@@ -2,16 +2,11 @@
 <!DOCTYPE html>
 <html b:css='false' b:defaultwidgetversion='2' b:layoutsVersion='3' b:responsive='true' b:templateVersion='1.0.0' expr:dir='data:blog.languageDirection' expr:lang='data:blog.locale' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
 <head>
+
 <meta content='width=device-width, initial-scale=1' name='viewport'/>
 <b:include data='blog' name='all-head-content'/>
 <!-- Title -->
-<title><data:blog.pageTitle/> | Kualitas Premium</title>
-<!-- keyword -->
-<meta content='jasa followers, followers gratis, free followers, followers instagram, followers instagram gratis, jasa suntik followers, cara tambah followers, followers' name='keywords'/>
-<!-- meta deskripsi -->
-<meta content='Jasa penambah followers sosmed Indonesia terbaik dan terpercaya. Bangun Bisnis anda dengan Strategi Sosial Media yang sesuai dengan tujuan Bisnis anda. Dapatkan pelanggan baru dengan mengoptimasikan Sosial Media anda bersama kami.' name='description'/>
-<meta content='Jasa penambah followers sosmed Indonesia terbaik dan terpercaya. Bangun Bisnis anda dengan Strategi Sosial Media yang sesuai dengan tujuan Bisnis anda. Dapatkan pelanggan baru dengan mengoptimasikan Sosial Media anda bersama kami.' property='og:description'/>
-<meta content='Jasa penambah followers sosmed Indonesia terbaik dan terpercaya. Bangun Bisnis anda dengan Strategi Sosial Media yang sesuai dengan tujuan Bisnis anda. Dapatkan pelanggan baru dengan mengoptimasikan Sosial Media anda bersama kami.' name='twitter:description'/>
+<title>Template dewafollowers lite</title>
 <!-- canonical -->
 <link expr:href='data:blog.url' rel='canonical'/>
 <!-- Plugin -->
